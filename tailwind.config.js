@@ -14,5 +14,10 @@ module.exports = {
       mxl: { max: "1280px" },
       m2xl: { max: "1536px" },
     },
+    fontFamily:{
+      body:['Suez One'],
+      serif:['Montserrat'],
+      sans:['Open Sans']
+    },
   },
 };
